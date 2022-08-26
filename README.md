@@ -6,11 +6,11 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 </p style="color:#6495ED">
 
   
-### Browsers ☁️
+### 🌐Browsers
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)  
   
 
-## Languages and Tools
+## 📋Languages and Tools
 
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
 
@@ -25,9 +25,9 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### Operation systems
+### 🧑‍💻Operation systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### Tools and IDEA's
+### 💻Tools and IDEA's
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![sublime](https://img.shields.io/badge/-Sublime-F05032?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
 ![ps](https://img.shields.io/badge/-PhotoShop-F05032?style=for-the-badge&logo=Adobe-photoshop&logoColor=ffffff)
@@ -38,7 +38,7 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
   
- ### Cloud Storage
+ ### 📂Cloud Storage
  ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
   
 ### 💾Databases
