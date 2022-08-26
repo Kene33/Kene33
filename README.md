@@ -17,7 +17,7 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ### DevOps stack
 ![BASH](https://img.shields.io/badge/-BASH-9d4beb?style=for-the-badge&logo=shell&logoColor=ffffff)
 ### Backend stack 
-![PY](https://img.shields.io/badge/-PYTHON-718093?style=for-the-badge&logo=python&logoColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/-PHP-718093?style=for-the-badge&logo=php&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
