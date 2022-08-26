@@ -23,7 +23,7 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ### Frontend stack
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ### Operation systems
-![LINUX](https://img.shields.io/badge/-LINUX-40739e?style=for-the-badge&logo=linux&logoColor=ffffff) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ### Tools and IDEA's
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![sublime](https://img.shields.io/badge/-Sublime-F05032?style=for-the-badge&logo=sublime-text&logoColor=ffffff)
