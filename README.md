@@ -35,3 +35,8 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
  
  ### Code Hosts
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+  
+ ### Cloud Storage
+ ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+
