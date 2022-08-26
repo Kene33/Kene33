@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#6495ED">Oneecode </h1 style="color:#6495ED"> <br />
+<h1 align="center" style="color:#6495ED">oneecode </h1 style="color:#6495ED"> <br />
 <p align="center" style="color:#6495ED">
 I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 14 years old, usually I like to automate some tasks, work in linux. <br />
