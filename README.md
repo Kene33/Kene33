@@ -20,6 +20,7 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ![PY](https://img.shields.io/badge/-PYTHON-718093?style=for-the-badge&logo=python&logoColor=green)
 ![PHP](https://img.shields.io/badge/-PHP-718093?style=for-the-badge&logo=php&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ### Frontend stack
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
