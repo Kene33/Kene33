@@ -14,8 +14,6 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
 
-### DevOps stack
-![BASH](https://img.shields.io/badge/-BASH-9d4beb?style=for-the-badge&logo=shell&logoColor=ffffff)
 ### Backend stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Frontend stack
