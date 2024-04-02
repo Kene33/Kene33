@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#6495ED">oneecode </h1 style="color:#6495ED"> <br />
+<h1 align="center" style="color:#6495ED">Kene33 </h1 style="color:#6495ED"> <br />
 <p align="center" style="color:#6495ED">
 I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 14 years old, usually I like to automate some tasks, work in linux. <br />
@@ -19,7 +19,6 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
 ### Backend stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Frontend stack
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-192a56?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -41,8 +40,7 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
  ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
   
 ### 💾Databases
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
   ### Social
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -58,4 +56,3 @@ I am a <b>software<b> developer and <b>Linux<b> System Administrator.
  ### 🎮Gaming
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
- ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
