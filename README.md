@@ -2,15 +2,13 @@
 <p align="center" style="color:#6495ED">
 hello <br /><br />
 </p style="color:#6495ED">
-
+<img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif" width="500">
   
 ### 🌐Browsers
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)  
   
 
-## 📋Languages and Tools
-
-<img align="right" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1](https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif)" width="500">
+## 📋Languages
 
 ### Backend stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
