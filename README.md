@@ -25,7 +25,7 @@ hello <br /><br />
   
   
   ### Social
- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+ ![kenee33](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
  ![Discord](https://img.shields.io/badge/seventydev-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
   
  ### 🎮Gaming
