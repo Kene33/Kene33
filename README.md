@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Hamid<br>I hope I'm a developer or at least look like one</h1>
+<h1 align="center">Hi 👋! My name is Hamid<br>I'm a developer, or at least look like one.</h1>
 
 ###
 
