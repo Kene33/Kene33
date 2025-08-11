@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Kene33">
-    <img src="https://skillicons.dev/icons?i=py,c,html,css,linux,arch,redis,sqlite,fastapi,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,fastapi,docker,git,vscode" />
   </a>
 </p>
 
