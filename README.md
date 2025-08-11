@@ -12,11 +12,7 @@
 
 <br clear="both">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, c, html, css, linux, redis, sqlite, ruby, docker, git" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,ruby,docker,git)](https://skillicons.dev)
 
 ###
 
