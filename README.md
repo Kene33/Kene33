@@ -6,11 +6,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kene33&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="210" alt="languages graph" />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kene33&label=Views&color=c061cb&style=flat" alt="kene33" /> </p>
 </div>
 
 ###
-
-<br clear="both">
 
 <p align="center">
   <a href="https://github.com/Kene33">
@@ -18,6 +17,6 @@
   </a>
 </p>
 
-<br clear="both">
+###
 
 <img src="https://raw.githubusercontent.com/Kene33/Kene33/output/snake.svg" alt="Snake animation" />
