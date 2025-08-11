@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,ruby,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,ruby,docker,git)](https://kuduzovv.t.me)
 
 ###
 
