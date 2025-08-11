@@ -12,7 +12,11 @@
 
 <br clear="both">
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,ruby,docker,git)](https://kuduzovv.t.me)
+<p align="center">
+  <a href="https://github.com/Kene33">
+    <img src="https://skillicons.dev/icons?i=py,c,html,css,linux,redis,sqlite,ruby,docker,git" />
+  </a>
+</p>
 
 ###
 
