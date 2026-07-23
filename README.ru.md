@@ -25,9 +25,7 @@
 - ⚡ FastAPI и REST API
 - 🤖 Telegram-боты и автоматизация
 - 🗄️ PostgreSQL и SQLite
-- 🐳 Docker и Linux-инфраструктура
-- ⚙️ C для системного программирования
-- 💻 Git
+- 🐧 Linux-инфраструктура
 - 🌱 Постоянно изучаю что-то новое
 
 ---
@@ -57,19 +55,15 @@ Blog-сервис на FastAPI с аутентификацией, постами
 ![REST API](https://img.shields.io/badge/REST_API-0F766E?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### Базы данных и сервисы
+### Базы данных, сервисы и хранилища
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-
-### Хранилища
-
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 
 ### Боты и автоматизация
 
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ### Frontend для базовых задач
@@ -113,8 +107,8 @@ Blog-сервис на FastAPI с аутентификацией, постами
 
 ## 💻 Рабочее окружение
 
+- MacBook Air (M4, 16/256)
 - macOS
-- VS Code
 - Python • FastAPI • Git
 
 ---
@@ -123,11 +117,7 @@ Blog-сервис на FastAPI с аутентификацией, постами
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kene33&theme=github_dark" alt="Сводка активности GitHub" />
-
 <img src="https://streak-stats.demolab.com?user=Kene33&theme=github-dark&hide_border=true" alt="Серия контрибуций GitHub" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kene33&theme=github_dark" alt="Репозитории по языкам" />
 
 </div>
 
